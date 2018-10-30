@@ -1,2 +1,1 @@
-# python-lml
-Python Learning Machine Learning
+# Learning Notes
